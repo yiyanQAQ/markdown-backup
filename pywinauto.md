@@ -1,4 +1,4 @@
-## 一、pywinauto 是什么
+## 一、pywinauto
 
 **pywinauto** 是一个用于 **Windows GUI 自动化** 的 Python 库，适合自动化：
 
