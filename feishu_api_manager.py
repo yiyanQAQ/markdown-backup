@@ -300,7 +300,7 @@ class FeishuAPIManager:
 #     try:
 #         print("\n>>> Sending Message...")
 #
-#         manager.send_message(OPEN_ID, "你好，这是测试消息", receive_id_type="open_id")
+#         manager.send_message(OPEN_ID, "测试消息", receive_id_type="open_id")
 #
 #         manager.send_message(
 #             receive_id=OPEN_ID,
