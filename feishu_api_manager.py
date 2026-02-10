@@ -283,17 +283,17 @@ class FeishuAPIManager:
         return self._handle_response(response, "list_messages")
 
 
-# 使用示例
+# 示例
 
 # if __name__ == "__main__":
 #     APP_ID = "app_id"
 #     APP_SECRET = "app_secret"
 #
-#     # 示例 ID
-#     APP_TOKEN = "bascnxxxxxxxxxx"
-#     TABLE_ID = "tblxxxxxxxxxxxxx"
-#     CHAT_ID = "oc_xxxxxxxxxxxxxx"
-#     OPEN_ID = "ou_xxxxxxxxxxxxxx"
+#     # 示例ID
+#     APP_TOKEN = "xxxxxxxxxxxxxx"
+#     TABLE_ID = "xxxxxxxxxxxxxx"
+#     CHAT_ID = "xxxxxxxxxxxxxx"
+#     OPEN_ID = "xxxxxxxxxxxxxx"
 #
 #     manager = FeishuAPIManager(APP_ID, APP_SECRET, log_level=lark.LogLevel.DEBUG)
 #
